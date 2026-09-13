@@ -1,8 +1,7 @@
 # CFA–GRM Simulation Pipeline
 
 Analysis script and output-generation pipeline for the manuscript
-**"Cognitive, Affective, and Conative Pathways in Human–GenAI Interactions"**
-(F1000Research, Method Article).
+**"Smarter but Not Wiser": A Transdisciplinary CFA-GRM Simulation Pipeline for Mapping Human–GenAI Interaction**
 
 The script simulates a synthetic response dataset (N = 1,000; 36 ordinal items
 across three latent domains: Cognitive, Affective, Conative), fits a
