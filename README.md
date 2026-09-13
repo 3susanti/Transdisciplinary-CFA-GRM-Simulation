@@ -163,4 +163,5 @@ Add the full citation and the Zenodo DOI here once assigned.
 
 ## License
 
-Released under the CC-BY 4.0 License. See (LICENSE).
+Released under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0). See [`LICENSE`](LICENSE).
