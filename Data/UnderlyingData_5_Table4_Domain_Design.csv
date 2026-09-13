@@ -1,0 +1,4 @@
+﻿"Domain","Mean Discrimination","Peak Information Theta","Design Implication","Actionable Scaffolding Strategy"
+"Cognitive","1.560","0.100","High precision. Scaffold complex problem-solving at theta > 0.5.","Adaptive Challenge Laddering: escalate difficulty only after student demonstrates critical evaluation of prior AI output."
+"Affective","1.205","0.000","Discrimination > 1.4 = early emotional friction. Implement empathy-calibrated feedback.","Affective Pause Protocol: pause and offer validation when friction signals (e.g., repeated prompts) are detected."
+"Conative","1.448","0.200","Low thresholds = rapid reliance onset. Require self-regulation scaffolding first.","Pre-Access Goal Contract: require goal-setting and self-verification plan before full AI access."

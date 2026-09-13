@@ -1,0 +1,2 @@
+﻿"Model","CFI","TLI","RMSEA","RMSEA 90% CI","SRMR","ChiSq_scaled","df","p_value","Index_type"
+"3-Factor Tripartite (C-A-C)","0.995","0.995","0.010","[0.000, 0.016]","0.028","604.89","591","0.337","robust"
