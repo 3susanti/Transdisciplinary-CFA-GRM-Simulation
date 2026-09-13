@@ -162,4 +162,4 @@ Add the full citation and the Zenodo DOI here once assigned.
 
 ## License
 
-Released under the MIT License. See [`LICENSE`](LICENSE).
+Released under the CC-BY 4.0 License. See [`LICENSE`](LICENSE).
